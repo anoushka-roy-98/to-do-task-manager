@@ -1,0 +1,17 @@
+.task-form{
+    position: relative;
+    align-items: center;
+}
+
+.task-input {
+    width: 25vw;
+    height: 6vh;
+    border: none;
+    border-radius: 8px;
+    padding: 0 10px;
+    outline: none;
+}
+
+.task-submit{
+    position:absolute;
+}
